@@ -14,4 +14,4 @@ Learn the SmartStamp basics and about the SmartStamp API by having a look at:
 
 # Samples Overview
 
-[Receiving and Processing Artwork Registered Webhook](TBD)
+[Receiving and Processing Artwork Registered Webhook](./webhook-artwork-registered/)
